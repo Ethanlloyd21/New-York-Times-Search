@@ -1,5 +1,5 @@
 # New-York-Times-Search
-A dynamic web application that allows the user to search articles from the New York Times News Papers. This app will run in the browser and freature updated HTML, CSS, JQuary, JavaScript with third party APIs. 
+A dynamic web application that allows the user to search articles from the New York Times News Papers. This app will run in the browser and freature updated HTML, CSS, jQuery, JavaScript with third party APIs. 
 
 ![](/images/nytimes.PNG)
 
