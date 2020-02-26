@@ -16,5 +16,4 @@ Type in a key word in the search field. Specify how many records/ article, and y
 # Business Context
 Information and data are the most strategic assests of an organization. It is critical to harness accurate information for effective decision-making. Using google search will give un-reliable source thus, inaccurate information can affect performance on subsequent task. 
 
-## Author
-* Lloyd Marcelino, 2020
+
